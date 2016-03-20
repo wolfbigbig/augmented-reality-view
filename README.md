@@ -191,3 +191,4 @@ Low-Pass Filter is finally applied to sensor values in `onSensorChanged(SensorEv
 An example of this can be found [on GitHub](https://github.com/raweng/augmented-reality-view).  
 Here i have applied low pass filter for `Sensor.TYPE_ACCELEROMETER` and `Sensor.TYPE_MAGNETIC_FIELD`.
 
+我要修改README
